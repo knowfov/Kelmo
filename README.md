@@ -14,7 +14,7 @@
 
 ## ⚡ Quick Start
 
-1. Download **`kelmo.exe`** from the latest release.
+1. Download **`kelmo.exe`** from the latest release or **`curl -L -O https://github.com/knowfov/Kelmo/releases/download/1.0.0/kelmo.exe`**.
 2. Double-click **`kelmo.exe`** to start.
    - On the first launch, Kelmo automatically creates shortcuts on your **Desktop** and in your **Start Menu ("Пуск")**.
 3. Connect your preferred AI provider:
